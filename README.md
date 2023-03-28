@@ -8,7 +8,7 @@ Robert Bradley, Economics Ph.D., Northeastern University
 
 Data were collected in 2014 and 2015 by Isak Ladegaard. Andrew Tsai, Robert Bradley, and Isak Ladegaard collaborated on data cleaning, wrangling, and analysis.
 
-The original dataset had xxx observations.
+The original dataset had ~480k observations (transactions).
 
 We aggregated the data to the file uploaded here. We aggregated the data to each day for each type of product and for each country.  
 
