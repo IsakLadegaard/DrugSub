@@ -6,7 +6,9 @@ Andrew Tsai, Economics Ph.D., Brandeis University
 Isak Ladegaard, Assistant Professor of Sociology, University of Illinois at Urbana-Champaign 
 Robert Bradley, Economics Ph.D., Northeastern University
 
-Data were collected in 2014 and 2015 by Isak Ladegaard. Andrew Tsai, Robert Bradley, and Isak Ladegaard collaborated on data cleaning, wrangling, and analysis.
+Data were collected in 2014 and 2015 by Isak Ladegaard. (See darkdata.illinois.edu.)
+
+Andrew Tsai, Robert Bradley, and Isak Ladegaard collaborated on data cleaning, wrangling, and analysis.
 
 The original dataset had ~480k observations (transactions).
 
